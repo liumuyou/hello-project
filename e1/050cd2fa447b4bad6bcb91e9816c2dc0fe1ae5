@@ -1,0 +1,14 @@
+README.md
+  h_27e5950ea3816a 49-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "e1050cd2fa447b4bad6bcb91e9816c2dc0fe1ae5",
+  "prompts": {},
+  "humans": {
+    "h_27e5950ea3816a": {
+      "author": "Ricky <ricky@example.com>"
+    }
+  }
+}
