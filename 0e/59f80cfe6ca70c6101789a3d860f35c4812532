@@ -1,0 +1,19 @@
+README.md
+  s_a3b11ed2abae6f::t_da945d131e8b85 1-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "0e59f80cfe6ca70c6101789a3d860f35c4812532",
+  "prompts": {},
+  "sessions": {
+    "s_a3b11ed2abae6f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f2253-c121-7360-8446-c1807be00971",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Ricky <ricky@example.com>"
+    }
+  }
+}
