@@ -46,4 +46,7 @@ git-ai usage
 
 ## 许可证
 
-MIT
+MIT1
+测试一个
+我加的
+你加的
