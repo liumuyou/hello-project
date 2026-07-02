@@ -1,0 +1,19 @@
+hello.py
+  s_a3b11ed2abae6f::t_0ca386e5344eba 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "8f8e8fc1d56e79fd7ebf965d8adc49c72ace6dcc",
+  "prompts": {},
+  "sessions": {
+    "s_a3b11ed2abae6f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f2253-c121-7360-8446-c1807be00971",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Ricky <ricky@example.com>"
+    }
+  }
+}
